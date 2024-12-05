@@ -3,9 +3,6 @@
 % Program to simulate the motion of a spherical robot that rolls without
 % slipping on a flat surface - refactored for modularity.
 % Original author: Simone Fiori (DII-UnivPM)
-%% Included REAL-TIME PROCESSING instead of Simulated Trajectories
-% Modified by: Francisco A. Camargo, M.Phil. (CS Columbia University) /FAC
-% Refactored: <Your Name>
 %% ------------------------------------------------------------------------   
     %% Kick-off
     clc; 
